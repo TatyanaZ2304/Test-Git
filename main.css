@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+div{
+    background-color:floralwhite;
+}
+div p{
+    font-size:small;
+}
+a+p {
+font-style: italic;
+}
+a~p {
+    color:blueviolet;
+}
+
+div>H3 {
+color: chartreuse;
+}
